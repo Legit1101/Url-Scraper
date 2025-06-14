@@ -12,8 +12,10 @@ It parses the HTML of a webpage and saves links to a text or CSV file.
 
 ## Installation
 
-git clone https://github.com/YOUR_USERNAME/urlscraper.git
+git clone https://github.com/Legit1101/Url-Scraper.git
+
 cd urlscraper
+
 pip install -r requirements.txt
 
 ## Usage
@@ -42,6 +44,7 @@ python3 urlscraper.py -u http://example.com -o links.txt -c links.csv
 Example: python3 urlscraper.py -f urls.txt -r 10 -o links.txt -c links.csv -j links.json -t
 
 ## Credit:
+
 Tool by LEGIT
 Instagram: @th3cyberside
 LinkedIn: https://www.linkedin.com/in/krishna-patwa/
